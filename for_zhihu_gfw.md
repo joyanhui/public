@@ -32,7 +32,7 @@
 
 ## 四、 机场服务推荐
 
-### 1\. 飞鸟云 
+### 1. 飞鸟云 
 
 *   **特色：** 提供**不限时、不限速**但限流量的套餐（如 20元/600G），也有包月套餐（如 12元/年，每月50G）。
 *   **性能：** 选好线路后支持 YouTube 4K 秒播，支持 Netflix 等流媒体。开全局会打不开内网只能访问外网
@@ -41,25 +41,26 @@
     *   https://x2.435462.xyz/#/register?code=9sRHRHmk
     *   https://fn7.476579.xyz/#/register?code=9sRHRHmk
 
-### 2\. Skyone 
+### 2. Skyone 
 
 *   **特色：** 价格极低（**0.5元/月 30G**），需勾选自动续费。
 *   **功能：** 开启全局模式可访问国内 App，适用于修改抖音、小红书、知乎的 IP 归属地到国外。
-*   **注册地址：**https://i2a4b0e5c3.skyxcloud.icu/auth/register?code=BFNrBt   [点击注册](https://i2a4b0e5c3.skyxcloud.icu/auth/register?code=BFNrBt)
+*   **注册地址：**https://i2a4b0e5c3.skyxcloud.icu/auth/register?code=BFNrBt  
 
+> af邀请码 会给我一点流量或者返点。尽量保留呗。
 * * *
 
 ## 五、 免费资源与自建方案
 
-### 1\. 免费订阅地址
+### 1. 免费订阅地址
 
 无需注册，直接复制到软件中使用（速度和稳定性一般，仅供应急）： `http://tt.vg/freeclash`
 
-### 2\. 高阶自建方案 (适合有编程基础的用户)
+### 2. 免费自建方案 (适合有编程基础的用户)
 
 利用 Cloudflare 的算力免费搭建：
 
 *   **准备工具：** 一个域名、单独的一个Cloudflare 账号。
 *   **托管方式：** 将域名 DNS 托管到 Cloudflare。
 *   **搭建方案：** 使用 Cloudflare Workers 部署 GitHub 开源项目 `cmliu/edgetunnel`。
-*   **注意：** 此方法违反 CF 服务条款，建议使用小号并低调使用。
+*   **注意：** 此方法违反 CF 服务条款，建议单独注册小号并低调使用。
