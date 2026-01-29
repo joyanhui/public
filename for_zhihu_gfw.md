@@ -42,13 +42,13 @@
 *   **性能：** 选好线路后支持 YouTube 4K 秒播，支持 Netflix 等流媒体。
 *   **注册地址：**
     * ⭐  https://feiniaoyun.xyz/#/register?code=9sRHRHmk      （这个地址一定可以打开，但是需要你先加密上网）
-    * ⭐  https://x1.332244.icu/#/register?code=9sRHRHmk      （2026-1-12测试可以直接打开）
+    * ⭐  https://x1.332244.icu/#/register?code=9sRHRHmk      （2026-1-29测试可以直接打开） 
 *   **缺点：他家全局后不能访问国内的app和软件，不能用来改ip，
 ### 2. Skyone 省钱推荐 ♥️
 
 *   **特色：** 价格极低（**0.5元/月 30G**），需勾选自动续费。
 *   **功能：** 开启全局模式可访问国内 App，适用于修改抖音、小红书、知乎的 IP 归属地到国外。
-*   **注册地址：**  ⭐  https://i2a4b0e5c3.skyxcloud.icu/auth/register?code=BFNrBt    （2026-1-12测试可以直接打开）
+*   **注册地址：**  ⭐  https://i2a4b0e5c3.skyxcloud.icu/auth/register?code=BFNrBt    （2026-1-29测试可以直接打开,但是有5秒跳转提示）
 *   **缺点：据说机场主是在日留学生还喜欢熬夜，出现过半夜线路全挂了，他第二天13点睡醒了才修。
 
 ## 五、 免费资源与自建方案
